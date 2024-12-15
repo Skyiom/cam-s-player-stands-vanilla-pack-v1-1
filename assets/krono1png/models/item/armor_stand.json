@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 155],
-
+	"textures": {
+		"1": "krono1png:item/armor_stand_steve"
+		},
 	"models": [
 		{
 			"part": "head",
